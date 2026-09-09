@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YaeaY.DataHub.Application/YaeaY.DataHub.Application.csproj" Id="bff56f89-0de8-40df-a9d4-58b9d5ebd11a" />
+    <Project Path="src/YaeaY.DataHub.Domain/YaeaY.DataHub.Domain.csproj" Id="7f5ff29d-a4b6-4ae1-b046-fa9c80969340" />
+    <Project Path="src/YaeaY.DataHub.Infrastructure/YaeaY.DataHub.Infrastructure.csproj" Id="92ba5803-f946-40a5-bf9b-e111c9e9212f" />
+    <Project Path="src/YaeaY.DataHub.Presentation/yaeay.datahub.presentation.client/yaeay.datahub.presentation.client.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+    <Project Path="src/YaeaY.DataHub.Presentation/YaeaY.DataHub.Presentation.Server/YaeaY.DataHub.Presentation.Server.csproj" Id="2b7ed690-8d36-4086-9efa-7494764e4ae1" />
+  </Folder>
+</Solution>
